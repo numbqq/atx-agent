@@ -11,7 +11,7 @@ import (
 
 	"github.com/codeskyblue/heartbeat"
 	"github.com/franela/goreq"
-	"github.com/openatx/androidutils"
+	"github.com/numbqq/androidutils"
 	"github.com/openatx/atx-server/proto"
 )
 
@@ -27,7 +27,7 @@ func getDeviceInfo() *proto.DeviceInfo {
 			AgentVersion: version,
 		}
 		devInfo.Sdk, _ = strconv.Atoi(getCachedProperty("ro.build.version.sdk"))
-		devInfo.HWAddr, _ = androidutils.HWAddrWLAN()
+		devInfo.HWAddr, _ = androidutils.HWAddrETH()  //androidutils.HWAddrWLAN()
 		display, _ := androidutils.WindowSize()
 		devInfo.Display = &display
 		battery := androidutils.Battery{}

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/openatx/androidutils"
+	"github.com/numbqq/androidutils"
 )
 
 type MessageType int

@@ -9,6 +9,12 @@
 			"revisionTime": "2017-05-15T01:44:30Z"
 		},
 		{
+			"checksumSHA1": "P0H5/m5QBZP8wvXznDJOia0O5O0=",
+			"path": "github.com/codeskyblue/heartbeat",
+			"revision": "41c9a36c9169a267a922df6cced86862592cfa77",
+			"revisionTime": "2018-05-10T08:38:15Z"
+		},
+		{
 			"checksumSHA1": "ouTbgKkZoGILlyTaVJSCMKksH/M=",
 			"path": "github.com/codeskyblue/kexec",
 			"revision": "5a4bed90d99a42c283dafbc64d94a6a8f372f949",
@@ -19,6 +25,12 @@
 			"path": "github.com/codeskyblue/procfs",
 			"revision": "a4741d5780882180e41985b5e7ded8627b896d49",
 			"revisionTime": "2018-02-06T02:56:22Z"
+		},
+		{
+			"checksumSHA1": "j0uAcBa3HgKBLOLcY4cvDWw4sxY=",
+			"path": "github.com/codeskyblue/realip",
+			"revision": "57e9cd075d0e04e9a3f1275ed153d52358db1627",
+			"revisionTime": "2018-05-09T03:13:53Z"
 		},
 		{
 			"checksumSHA1": "OMmQCoESeAdLaK+bR16GDLLYKhQ=",
@@ -177,16 +189,22 @@
 			"revisionTime": "2018-02-01T00:47:57Z"
 		},
 		{
+			"checksumSHA1": "jco+YhlNZKcMsGNZx31p8iS5y74=",
+			"path": "github.com/numbqq/androidutils",
+			"revision": "f5cff3159424516494eb7f70e633295b60abfdb9",
+			"revisionTime": "2018-08-02T07:08:01Z"
+		},
+		{
 			"checksumSHA1": "VrKBxlmITd2FXb4ZH1qgJ7CifZU=",
 			"path": "github.com/nwaples/rardecode",
 			"revision": "e06696f847aeda6f39a8f0b7cdff193b7690aef6",
 			"revisionTime": "2017-03-13T01:07:58Z"
 		},
 		{
-			"checksumSHA1": "duzq88Iqk8mTza18jf6lzqbqmyA=",
-			"path": "github.com/openatx/androidutils",
-			"revision": "24690fcfdb86b129b1f309de53e31724abe29484",
-			"revisionTime": "2018-05-10T02:30:39Z"
+			"checksumSHA1": "KiTmi62lsw/ptsX2jhlMfpIab3o=",
+			"path": "github.com/openatx/atx-agent/cmdctrl",
+			"revision": "d54bff26d0d890f8222d93d18f1c4c53ec77025c",
+			"revisionTime": "2018-07-31T10:47:11Z"
 		},
 		{
 			"checksumSHA1": "kPCCYHtl3MleEvLPhb6LsjAWRe4=",
@@ -253,6 +271,12 @@
 			"path": "github.com/shogo82148/androidbinary/apk",
 			"revision": "35135bc129e0f91d783d6fdd2e3f4c56b8db1735",
 			"revisionTime": "2018-06-21T01:04:41Z"
+		},
+		{
+			"checksumSHA1": "fhngc51BJ8gGzM5b8BpSuWjCLao=",
+			"path": "github.com/shurcooL/httpfs/vfsutil",
+			"revision": "809beceb23714880abc4a382a00c05f89d13b1cc",
+			"revisionTime": "2017-11-19T17:43:26Z"
 		},
 		{
 			"checksumSHA1": "lDtxf6bM3YtOIVrm+FrWnlgfCKA=",
@@ -358,5 +382,5 @@
 			"revisionTime": "2018-03-29T12:30:35Z"
 		}
 	],
-	"rootPath": "github.com/openatx/atx-agent"
+	"rootPath": "github.com/numbqq/atx-agent"
 }
